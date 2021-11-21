@@ -19,10 +19,10 @@
       "options": {
         "cacheableOperations": [
           "build",
+          "build-storybook",
           "lint",
           "test",
-          "e2e",
-          "build-storybook"
+          "e2e"
         ]
       }
     }
